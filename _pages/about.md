@@ -33,4 +33,4 @@ redirect_from:
 
 
 # 💻 Internships
-
+- *2022.4.11-2024.3.31*,CCF Campus Promoter Volunteer.
