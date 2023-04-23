@@ -21,8 +21,9 @@ redirect_from:
 
 # 🔥 News
 - *2023.05* ByteDance 5th Youth Training Camp - Front-end Track
-- *2022.07* ByteDance 4th Youth Training Camp - IOS Development Track
 - *2022.12* Alibaba Cloud "Diyi Class" College Student Technology Public Welfare Practice Program - Low-Code Training Camp
+- *2022.07* ByteDance 4th Youth Training Camp - IOS Development Track
+
 
 
 # 🎖 Honors and Awards
