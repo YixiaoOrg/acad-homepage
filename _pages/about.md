@@ -20,8 +20,8 @@ redirect_from:
 
 
 # 🔥 News
--*2023.5* ByteDance 5th Youth Training Camp - Front-end Track
--*2022.7* ByteDance 4th Youth Training Camp - IOS Development Track
+- *2023.5* ByteDance 5th Youth Training Camp - Front-end Track
+- *2022.7* ByteDance 4th Youth Training Camp - IOS Development Track
 
 
 # 🎖 Honors and Awards
