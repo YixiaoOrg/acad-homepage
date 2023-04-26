@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- Pan Yixiao is currently a sophomore student in a vocational college. He serves as the class monitor in his class and is enthusiastic about the open-source movement. He is willing to contribute to China's open-source cause and has a good understanding of modern Chinese history. In addition to computer science, he is also interested in finance and new energy.
+     Pan Yixiao is currently a sophomore student in a vocational college. He serves as the class monitor in his class and is enthusiastic about the open-source movement. He is willing to contribute to China's open-source cause and has a good understanding of modern Chinese history. In addition to computer science, he is also interested in finance and new energy.
 
 
 # 🔥 News
