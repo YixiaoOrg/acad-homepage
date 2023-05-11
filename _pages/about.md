@@ -19,6 +19,8 @@ redirect_from:
 
 Pan Yixiao is currently a sophomore student in a vocational college. He serves as the class monitor in his class and is enthusiastic about the open-source movement. He is willing to contribute to China's open-source cause and has a good understanding of modern Chinese history. In addition to computer science, he is also interested in finance and new energy.
 
+MAIL:![MAIL](https://xwj.panyixiao.com/tp/2023/01/17/63c6b75b83f0a.png)
+
 
 # 🔥 News
 - *2023.05* ByteDance 5th Youth Training Camp - Front-end Track
