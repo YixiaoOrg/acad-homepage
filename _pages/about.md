@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yixiao is currently a sophomore student in a vocational college. He serves as the class monitor in his class and is enthusiastic about the open-source movement. He is willing to contribute to China's open-source cause and has a good understanding of modern Chinese history. In addition to computer science, he is also interested in finance and new energy.
+I am currently a sophomore student in a vocational college, and I have the honor of being the class monitor. My passion lies in the open-source movement, and I am eager to contribute to China's open-source cause. I have a solid understanding of modern Chinese history and am also interested in finance and new energy, in addition to my major in computer science.
 
 Mail: **hi[a]panyixiao.com**
 
